@@ -1,0 +1,7 @@
+#navbar .active {
+    color: green;
+}
+
+#navbar a {
+    margin-right: 5px;
+}
